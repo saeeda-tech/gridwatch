@@ -1,0 +1,26 @@
+date,type,time_of_collapse,restoration,frequency_change_hz,generation_loss_mw,source_report,note
+2021-02-17,partial,,,,,2021Q1,Partial collapse; details not captured in text
+2021-05-12,total,,,,,2021Q2,Total collapse; details not captured in text
+2021-07-28,total,,,,,2021Q3,Total collapse; details not captured in text
+2021-08-23,partial,13:06,,,,2021Q3,Partial collapse
+2022-03-14,total,10:40,11:09 (restoration commenced),50.12->47.25,659.5,2022Q1,"Sapele NIPP GT1 trip, then Shiroro/Delta trips"
+2022-03-15,total,,,,,2022Q1,Shiroro 411G3 emergency and 411G4 protective shutdown
+2022-04-08,total,18:30,00:41 on 09 Apr (restoration commenced),,400,2022Q2,330kV tower collapse (vandalism) tripped Odukpani units
+2022-06-12,total,18:49,19:19 (restoration commenced),,412.5,2022Q2,Alaoji NIPP GT3 and Okpai trips on over-voltage; low gas supply
+2022-07-20,total,11:27,12:00 (restoration commenced),49.94->47.46,457,2022Q3,Delta G15 trip; NOTE report table header says 18:30 but narrative says 11:27
+2023-09-14,unspecified,00:41,,,647,2023Q3,Shiroro and Kainji trips; Kainji/Jebba line 2 CVT explosion
+2023-09-19,unspecified,11:31,,50.20->48.21,346,2023Q3,Delta units lost with lines G3B and S4G; under-frequency trips
+2023-12-11,unspecified,13:48,,50.25->48.01,878.13,2023Q4,Four 330kV circuits tripped; Egbin/Olorunsogo/Paras separated
+2024-02-04,partial,,,50.00->47.70 (Island 2),,2024Q1,"Gas supply drop, Sapele/Egbin trips; grid split into two islands"
+2024-03-28,total,16:27,,50.00->48.02,,2024Q1,Thermal stations tripped; failure of under-frequency load shedding
+2024-04-15,partial,02:41,,50.01->48.75 (Island 2),,2024Q2,Afam transmission station fire; Island 2 collapse
+2024-07-06,partial,,,,,2024Q3,Egbin_1 and Jebba_1 breaker trips; Island 2 collapse
+2024-10-14,partial,18:48,15/10 16:14,,,2024Q4,
+2024-10-19,total,08:15,17:57,,,2024Q4,
+2024-11-05,partial,13:52,23:37,,,2024Q4,
+2024-11-07,total,11:29,08/11 10:59,,,2024Q4,
+2024-12-11,total,13:32,20:07,,,2024Q4,
+2025-09-10,total,11:20,11:48,,,2025Q3,
+2025-12-29,partial,14:01,14:30,,,2025Q4,Failure of Benin-Onitsha 330kV circuit breaker at Benin
+2026-01-23,total,12:40,,,,2026Q1,Sapele busbar separation; loss of Delta evacuation lines; frequency decay
+2026-01-27,partial,10:48,,,,2026Q1,Lack of reactive power to support voltage
